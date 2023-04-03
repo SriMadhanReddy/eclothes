@@ -1,5 +1,5 @@
-# foodapp
-For shiva's college project
+# eclothes
+
 
 Run the backend server by below commands.
 #python3 FoodAPI_with_Cart_Service.py
